@@ -78,8 +78,8 @@ local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.
 local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TryharderKid/Ui-SOon/master/Addons/InterfaceManager.luau"))()
 
 local Window = Library:CreateWindow{
-Title = `MCL CLAN SCRIPT`,
-SubTitle = "Best Clan Ever KIDS",
+Title = `Pxrson Private Script`,
+SubTitle = "Dawg got the best Script",
 TabWidth = 160,
 Size = UDim2.fromOffset(830, 525),
 Resize = true,
